@@ -11,7 +11,7 @@ import javax.swing.JLabel;
  */
 /*
  * Programacion Interativa
- * Autora: Karen Paola Moreno -1940254
+ * Autora: Karen Paola Moreno 
  * Caso: Mini Proyecto 2 (Arca de Noel)
  */
 public class TitulosAx extends JLabel {
